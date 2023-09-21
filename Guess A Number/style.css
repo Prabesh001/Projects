@@ -1,0 +1,16 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+#guessbox::-webkit-inner-spin-button{
+  display: none;
+}
+input{
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.6);
+}
+input:focus{
+  outline: none;
+  box-shadow: 0 0 5px #0ba6f3;
+}

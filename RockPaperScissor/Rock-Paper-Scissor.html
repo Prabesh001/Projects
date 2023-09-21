@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rock Paper Scissor</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+  <link rel="shortcut icon" href="SimpleDev/10-Jajanken/Rock-emoji.png" type="image/x-icon">
+
+  <style>
+    body{
+      background-color: #000;
+      color: white;
+      font-family: Arial;
+    }
+
+    .buttons{
+      padding: 20px;
+      border-radius: 50%;
+      border: 2px solid white;
+      background-color: transparent;
+      margin: 10px;
+      align-items: center;
+    }
+
+    .fa-solid{
+      font-size: 40px;
+    }
+
+    .game{
+      margin-left: 30px;
+      display: flex;
+      gap: 50px;
+      margin-top: 30px;
+    }
+  </style>
+
+</head>
+<body>
+  <button class="js-rock buttons">
+    <i class="fa-solid fa-hand-fist" style="color: #fad900;"></i>
+  </button>
+
+  <button class="js-paper buttons">
+    <i class="fa-solid fa-hand" style="color: #fad900;"></i>
+  </button>
+
+  <button class="js-scissor buttons">
+    <i class="fa-solid fa-hand-peace" style="color: #fad900;"></i>
+  </button>
+  <br><br>
+  <div class="game">
+    <div class="you">
+      <b>You</b>
+      <p class="player-move"></p>
+    </div>
+
+    <div class="computer">
+      <b>Computer</b>
+      <p class="computer-move"></p>
+    </div>
+  </div>
+  <script>
+
+    const rock = document.querySelector('.js-rock');
+    const paper = document.querySelector('.js-paper');
+    const scissor = document.querySelector('.js-scissor');
+
+    function playGame(){
+      let playermove = document.querySelector('.player-move');
+
+      rock.addEventListener('click',()=>{
+        playermove.innerHTML =`<i class="fa-solid fa-hand-fist" style="color: #fad900;"></i>`;
+        pickComputerMove();
+      });
+
+      paper.addEventListener('click',()=>{
+        playermove.innerHTML =`<i class="fa-solid fa-hand" style="color: #fad900;"> </i>` ;
+        pickComputerMove();
+      });
+
+      scissor.addEventListener('click',()=>{
+        playermove.innerHTML =`<i class="fa-solid fa-hand-peace" style="color: #ffea00;"></i>`;
+        pickComputerMove();
+    });
+  }
+  playGame();
+    function pickComputerMove(){
+      const randomNumber = Math.random();
+
+      let computerMove='';
+      
+      if(randomNumber <1/3){
+        computerMove = `<i class="fa-solid fa-hand-fist" style="color: #fad900;"></i>` ;
+      } else if(randomNumber >= 1/3 &&   randomNumber < 2/3) {
+        computerMove=`<i class="fa-solid fa-hand" style="color: #fad900;"></i>`;
+      } else if(randomNumber >= 2/3 &&  randomNumber <= 1){
+        computerMove=`<i class="fa-solid fa-hand-peace" style="color: #ffea00;"></i>`;
+      }
+      document.querySelector('.computer-move').innerHTML = computerMove;
+    }
+  </script>
+</body>
+</html>

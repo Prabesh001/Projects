@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculator</title>
+  <link rel="shortcut icon" href="calculator.jpg" type="image/x-icon">
+  <link rel="stylesheet" href="calculator.css">
+
+</head>
+<body>
+  <button class="darkMode">Light Mode</button>
+  <div class="calculator">
+    <input type="text" class="display" disabled>
+
+    <div class="buttonBox">
+    <button onclick="displayValue(9)">9</button>
+    <button onclick="displayValue(8)">8</button>
+    <button onclick="displayValue(7)">7</button>
+    <button class="sign" onclick="displayValue('+')">+</button>
+    <br>
+    <button onclick="displayValue(6)">6</button>
+    <button onclick="displayValue(5)">5</button>
+    <button onclick="displayValue(4)">4</button>
+    <button class="sign" onclick="displayValue('-')">-</button>
+    <br>
+    <button onclick="displayValue(3)">3</button>
+    <button onclick="displayValue(2)">2</button>
+    <button onclick="displayValue(1)">1</button>
+    <button class="sign" onclick="displayValue('*')">x</button>
+    <br>
+    <button onclick="clr()">C</button>
+    <button onclick="displayValue(0)">0</button>
+    <button onclick="calculate()">=</button>
+    <button class="sign" onclick="displayValue('/')">/</button>
+    </div>
+  </div>
+
+  <script src="calculator.js"> </script>
+</body>
+</html>

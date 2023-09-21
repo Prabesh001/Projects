@@ -1,0 +1,116 @@
+label i{
+  position: absolute;
+  z-index: 11;
+  font-size: 25px;
+  left: 30px;
+  opacity: 40%;
+}
+.fa-lock{
+  top: 137px;
+}
+.fa-user{
+  top: 78px;
+}
+.fieldset {
+  position: absolute;
+  top: 315px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 28px 0 0 22px;
+  left: 14px;
+  width: 620px;
+  border: hidden;
+  height: 299px;
+}
+.a {
+  font-weight: 500;
+  font-size: 21px;
+  display: inline;
+}
+.Username,
+.Password {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  position: relative;
+  padding: 12px 12px 12px 37px;
+  width: 97%;
+  box-sizing: border-box;
+  text-align: left;
+  margin-bottom: 15px;
+  margin-top: 11px;
+  font-size: 15px;
+}
+.Password {
+  margin-top: 2px;
+}
+.Username:focus,
+.Password:focus {
+  outline: none;
+  border: 1px solid rgb(175, 175, 219);
+}
+/* input:invalid{
+  border-color: red;
+  animation: shake 300ms;
+  animation-play-state: running;
+}
+@keyframes shake{
+  25%{transform: translateX(-5px);}
+  50%{transform: translateX(5px);}
+  75%{transform: translateX(-5px);}
+
+} */
+#check {
+  font-display: initial;
+  font-size: 13px;
+  margin-left: -10px;
+}
+#checkb {
+  margin-right: 5px;
+  margin-top: -165px;
+  vertical-align: -1px;
+  border: none;
+}
+.forgot {
+  font-weight: 500;
+  text-underline-position: under;
+  color: #2460b9;
+  font-size: 0.821rem;
+  position: absolute;
+  right: 17px;
+  text-decoration: none;
+}
+.login {
+  border-radius: 8px;
+  border: none;
+  color: aliceblue;
+  font-weight: bold;
+  font-size: 13px;
+  background-color: #2460b9;
+  cursor: pointer;
+  position: absolute;
+  padding: 14px;
+  width: 93%;
+  box-sizing: border-box;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.sign {
+  font-weight: 500;
+  text-decoration-line: underline;
+  text-underline-position: under;
+  color: #4b72ac;
+}
+.your {
+  font-weight: 500;
+  color: #2460b9;
+  text-decoration: none;
+}
+.downmost{
+  width: 97%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.821rem;
+  padding-top: 19px;
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Applicant Login :: Online Details</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="emblem_of_Nepal.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    <style>
+         body {
+            font-family: Poppins, Arial,sans-serif;
+            /* background-color: #F9FAFF; */
+            background-color: #F1F5FF;
+            height: fit-content;
+        }
+    </style>
+    <link rel="stylesheet" href="fieldset.css">
+    <link rel="stylesheet" href="head.css">
+    <link rel="stylesheet" href="nav.css">
+</head>
+<body>
+  <main>
+    <div class="info">
+        <img src="emblem_of_Nepal.png" alt="No picture">
+        <div class="description">
+            <p class="texta"> Government of Nepal </p>
+            <p class="textb">Ministry of Physical Infrastructure and Transport </p>
+            <p class="textc">Department of Transport Management</p>
+            <p class="textd">Online Driving License System</p>
+        </div>
+        <header>
+            <div class="nil"></div>
+             <a href="#">Home</a>
+             <a href="#">License Search</a>
+             <a href="#">Quota Overview</a>
+             <a href="#">License Print Check</a>
+             <a href="#">FAQ</a>
+             <a href="#">User Manual</a>
+            
+        </header>
+    </div>
+ <div class="fieldset">
+    <a class="a">Applicant Login</a>  <br>
+
+    <form action="submit" class="form">
+
+        <label for="username">
+            <i class="fa-solid fa-user"></i>
+            <input class="Username" type="text" autocomplete="off" required placeholder="Username" id="username">
+        </label>
+<br>
+        <label for="password">
+            <i class="fa-solid fa-lock"></i>
+            <input  class="Password" type="password" autocomplete="off" required placeholder="Password" id="password"> 
+        </label>
+
+            <br>
+            <input type="checkbox" autocomplete="off" required  id="checkb"> 
+            
+            <a id="check">&nbsp; Remember Me</a>
+            <a class="forgot" href="forgotpass.htm">Forgot your Password?</a><br>
+
+            <input type="submit" value=Login class="login" onclick="alert('Hahaha....Got you...')"><br>
+
+          <br>
+          <div class="downmost">
+            <span>
+            <a class="acc">Don't have an account?</a> 
+            <a class="sign" href="signup.html" >Sign up</a>
+            </span>
+          
+
+            <a href="forgotun.htm" class="your">Forgot your username?</a>
+        </div>
+    </form>
+</div><br>
+</main>  
+
+</body>
+</html>

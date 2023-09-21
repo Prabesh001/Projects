@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Applicant Registration</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap">
+    <link rel="shortcut icon" href="emblem_of_Nepal.png" type="image/x-icon">
+    <style>
+        body{
+            font-family: Corbel;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 95vh;
+           background-color: #F1F5FF;
+        }
+        fieldset{
+            position: relative;
+            background-color: #fff;
+            width: 560px;
+            height: 450px;
+            border: hidden;
+            border-radius: 8px;
+        }
+        .a{
+            font-family: Poppins;
+            font-weight: 500;
+            font-size: 22px;
+            margin-left: 6px;
+            
+        }
+        .lo{
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            position: relative;
+            padding: 10px;
+            width: 500px;
+            box-sizing: border-box;
+            text-align: left;
+            margin-top: 9px;
+            margin-bottom: 6px;
+            margin-left: 6px;
+            margin-right: 10px;
+
+        }
+        .l{
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            position: relative;
+            padding: 10px;
+            width: 240px;
+            box-sizing: border-box;
+            text-align: left;
+            margin-top: 9px;
+            margin-bottom: 6px;
+            margin-left: 6px;
+            margin-right: 10px;
+        }
+        .r{
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            position: relative;
+            padding: 10px;
+            width: 240px;
+            box-sizing: border-box;
+            text-align: left;
+            /* margin-left: 50px; */
+            margin-top: 9px;
+            margin-bottom: 6px;
+            margin-left: 6px;
+            margin-right: 10px;
+        }
+        input[type="submit"]{
+            width: 500px;
+            padding: 8px;
+            border-radius: 4px;
+            border-width: 1px;
+            background-color: #2460B9;
+            color: white;
+            font-weight: bold ;
+            text-shadow: black;
+            text-align: center;
+            margin-bottom: 15px;
+            display: inline-block;
+            cursor: pointer;
+            margin-left: 6px;
+            margin-top: 6px;
+        }
+        .text{
+            margin-bottom: 16px;
+            font-size: .813rem;
+        }
+        .x{
+            text-decoration-line: none;
+            font-size: .813rem;
+            margin-left: 6px;
+        }
+        #ba{
+            margin-left: -3px;
+            font-weight: bolder;
+            text-underline-position: under;
+            color: #2460B9;
+            font-size: .813rem;
+            margin-left: 2px;
+
+        }
+        #fr{
+            margin-left: -3px;
+            font-weight: bolder;
+            text-underline-position: under;
+            color: #2460B9;
+            font-size: .813rem;
+            margin-left: 273px;
+            text-decoration: none;
+
+        }
+        /* input[type="text"],input[type="password"]
+        {
+            margin-top: 9px;
+            margin-bottom: 6px;
+            margin-left: 6px;
+            margin-right: 10px;
+        } */
+        .cmt{
+            color: blue;
+            margin-top: -2px;
+            margin-bottom: 5px;
+            margin-left: 6px;
+            font-size: .75rem;
+            font-style: italic;
+            
+        }
+        .rc{
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            position: relative;
+            padding: 10px;
+            width: 240px;
+            box-sizing: border-box;
+            text-align: left;
+            margin-top: 9px;
+            /* margin-bottom: 6px; */
+            margin-left: 6px;
+            margin-right: 10px;
+        }
+        .lc{
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            position: relative;
+            padding: 10px;
+            width: 240px;
+            box-sizing: border-box;
+            text-align: left;
+            margin-top: 9px;
+            /* margin-bottom: 6px; */
+            margin-left: 6px;
+            margin-right: 10px;
+        }
+
+    </style>
+</head>
+
+<body>
+<fieldset>
+    <a class="a" >Applicant Registration</a><br>
+    <input type="text" class="lo" placeholder="First Name"><br>
+    <input type="text" class="l" placeholder="Middle Name">
+    <input type="text" class="r" placeholder="Last Name"><br>
+    <input type="text" class="l" placeholder="Date of Birth">
+    <input type="text" class="r" placeholder="Mobile Number"><br>
+    <input type="password" class="lc" placeholder="Password">
+    <input type="password" class="rc" placeholder="Confirm Password">
+    <i class="cmt">*requires minimum 8 characters, uppercase, lowercase, number and symbol</i>
+    <input type="search" placeholder="Security Question" id="question" class="lo" list="questions">
+    <datalist id="questions">
+        <option value="What's your favorite book or movie, and why?">What's your favorite book or movie, and why?</option>
+        <option value="If you could travel anywhere in the world, where would you go and why?">If you could travel anywhere in the world, where would you go and why?</option>
+        <option value="What's a skill you've always wanted to learn, but haven't had the chance to yet?">What's a skill you've always wanted to learn, but haven't had the chance to yet?</option>
+        <option value="What's the most interesting place you've ever visited?">What's the most interesting place you've ever visited?</option>
+        <option value="If you could have dinner with any historical figure, who would it be and what would you ask them?">If you could have dinner with any historical figure, who would it be and what would you ask them?</option>
+        <option value="What's a memorable childhood experience you often think about?">What's a memorable childhood experience you often think about?</option>
+        <option value="If you could instantly become an expert in something, what would you choose?">If you could instantly become an expert in something, what would you choose?</option>
+        <option value="What's the most valuable piece of advice you've received in your life?">What's the most valuable piece of advice you've received in your life?</option>
+    </datalist><br>
+    <input type="text" class="lo">
+    <form action="submit" method="post">
+        <input type="submit" value="Sign Up">
+    </form>
+    <a class="x" href="5Form.html"></a>
+    <label class="text">
+     Already have an account?</label>
+     <a id="ba" href="5Form.html">Login</a>
+</fieldset>
+
+</body>
+</html>

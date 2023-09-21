@@ -1,0 +1,47 @@
+body{
+  background-color: #000a;
+  height: 630px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 550ms;
+}
+.darkMode{
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  padding: 10px;
+  font-size: 15px;
+  width: fit-content;
+  font-weight: bold;
+  background-color: black;
+}
+.calculator{
+  background:#080c10;
+  border: 1px solid black;
+  width: fit-content;
+  padding: 25px 10px 10px 10px;
+}
+.display{
+  cursor: grab;
+  font-size : 50px ;
+  width: 250px;
+  padding: 15px;
+  overflow: hidden;
+  background-color: white;
+  color: black;
+}
+.display:active{
+  cursor: grabbing;
+}
+button{
+  margin-top: 10px;
+  background: #243756;
+  color:#fff;
+  width: 23.9%;
+  font-size: 40px;
+  padding: 10px;
+}
+.buttonBox{
+  margin-top: 10px;
+}

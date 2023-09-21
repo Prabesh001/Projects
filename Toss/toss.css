@@ -1,0 +1,73 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.coin{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: rgb(222,176,99);
+  border: 3px solid black;
+  position: absolute;
+  top: 13%;
+  left: 40%;
+}
+img{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+.tossed{
+  transform: rotate3d(0, 1, 0, 36000deg);
+  transition: all 2s ease;
+  background-color: transparent;
+  border: none;
+  animation: transform 2s;
+}
+.result{
+  display: none;
+  position: absolute;
+  top: 45%;
+  left: 40%;
+  font-size: large;
+  font-weight: bold;
+}
+
+.js-head{
+  left: 25%;
+}
+.js-tail{
+  left: 55%;
+}
+.js-head,.js-tail{
+  position: absolute;
+  top: 35%;
+  height: 30px;
+  width: 75px;
+  background-color: white;
+  border: 1px solid black;
+}
+.js-head:active, .js-tail:active{
+  box-shadow: 1px 1px black inset;
+}
+.head{
+  position: absolute;
+  top: -3%;
+  left: -3%;
+}
+.result+p{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  font-size: large;
+  font-weight: bold;
+  opacity: 0.2;
+}
+
+@keyframes transform{
+  from {filter: blur(5px);
+  scale: 0.9;}
+  to   {filter: blur(8px)} ;
+}

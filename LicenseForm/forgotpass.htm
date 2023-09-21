@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forgot Password</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap">
+    <link rel="shortcut icon" href="emblem_of_Nepal.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="head.css">
+    <link rel="stylesheet" href="nav.css">
+
+<style>
+    body{
+        font-family: Poppins;
+        background-color: #F1F5FF;
+    }
+
+    fieldset{
+        position: absolute;
+        top : 48%; 
+        left: 15px;
+        background-color: #fff;
+        width: 560px;
+        height: 320px;
+        border: hidden;
+        border-radius: 8px;
+        padding-left: 18px;
+    }
+
+    .a{
+        font-family: Poppins;
+        font-weight: 500;
+        font-size: 22px;  
+    }
+
+    input[type="text"],
+    input[type="password"]{
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        position: relative;
+        padding: 13px;
+        width: 96%;
+        box-sizing: border-box;
+        text-align: left;
+        margin-bottom: 15px;
+        margin-top: 8px;
+    }
+
+    input[type="submit"]{
+        cursor: pointer;
+        width: 96%;
+        padding: 13px;
+        border-radius: 4px;
+        border-width: 1px;
+        background-color: #2460B9;
+        color: white;
+        font-weight: bold ;
+        text-shadow: black;
+        text-align: center;
+        margin-bottom: 15px;
+        margin-top: 8px;
+        border: none;
+    }
+
+    input:focus{
+        outline: none;
+        border-color: #a5bcf8;
+    }
+
+    .text{
+        margin-bottom: 16px;
+    }
+
+    .x{
+        text-decoration-line: none;
+    }
+
+    .lowtown{
+        display: flex;
+        width: 96%;
+        justify-content: space-between;
+        font-weight: 550;
+        
+        text-underline-position: under;
+        font-size: .813rem;
+    }
+
+    .lowtown> span>a{
+        color: #2460B9;
+    }
+
+    #fr{
+        text-decoration: none;
+        color: #2460B9;
+    }
+
+    @media only screen and (min-width: 770px) {
+        fieldset{
+            position: absolute;
+            top: 230px;
+            height: 320px
+        }
+    }
+
+</style>
+
+</head>
+
+<body>
+
+    <div class="info">
+        <img src="emblem_of_Nepal.png" alt="No picture">
+        <div class="description">
+            <p class="texta"> Government of Nepal </p>
+            <p class="textb">Ministry of Physical Infrastructure and Transport </p>
+            <p class="textc">Department of Transport Management</p>
+            <p class="textd">Online Driving License System</p>
+        </div>
+        <header>
+            <div class="nil"></div>
+             <a href="#">Home</a>
+             <a href="#">License Search</a>
+             <a href="#">Quota Overview</a>
+             <a href="#">License Print Check</a>
+             <a href="#">FAQ</a>
+             <a href="#">User Manual</a>
+            
+        </header>
+    </div>
+
+<fieldset>
+    <a class="a" >Forgot Password</a><br>
+    <input type="text" placeholder="Mobile Number"><br>
+    <input type="text" placeholder="Date of Birth"><br>
+    <input type="password" placeholder="Password"><br>
+    <form action="submit" method="post">
+        <input type="submit" value="Proceed">
+    </form>
+    
+    <div class="lowtown">
+    <span>
+        <a class="x" href="5Form.html">←</a>
+        <a id="ba" href="5Form.html">Back to Login</a>
+    </span>
+    <a id="fr" href="forgotun.htm">Forgot your username?
+    </a></div>
+</fieldset>
+
+</body>
+</html>

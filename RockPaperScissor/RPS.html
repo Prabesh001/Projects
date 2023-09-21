@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rock Paper Scissor</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+  <link rel="shortcut icon" href="SimpleDev/10-Jajanken/Paper-emoji.png" type="image/x-icon">
+
+  <style>
+    body{
+      background-color: #000;
+      color: white;
+      font-family: Arial;
+    }
+
+    .buttons{
+      padding: 20px;
+      border-radius: 50%;
+      border: 2px solid white;
+      background-color: transparent;
+      margin: 10px;
+      align-items: center;
+      color: white;
+    }
+    .buttons:hover{
+      background-color: rgb(78, 78, 78);
+    }
+    .buttons:active{
+      transform: scale(0.95);
+    }
+    .fa-solid{
+      font-size: 40px;
+    }
+
+    .game{
+      margin-left: 30px;
+      display: flex;
+      gap: 50px;
+      margin-top: 30px;
+    }
+    .game+p{
+      margin-left: 70px;
+      font-size: 18px;
+      font-family: cursive;
+    }
+
+    .you>b{
+      color: rgb(79, 248, 79);
+    }
+    .computer>b{
+      color: rgb(253, 61, 61);
+    }
+    .win{
+      color: rgb(79, 248, 79);
+    }
+    .reset, .autoplay{
+      background-color: white;
+      font-weight: bold;
+      font-size: 13px;
+      padding: 5px 10px;
+    }
+  </style>
+
+</head>
+
+<body>
+  <button class="js-rock buttons" title="Rock">
+    <i class="fa-solid fa-hand-fist" style="color: #fad900;"></i>
+  </button>
+
+  <button class="js-paper buttons" title="Paper">
+    <i class="fa-solid fa-hand" style="color: #fad900;"></i>
+  </button>
+
+  <button class="js-scissor buttons" title="Scissor">
+    <i class="fa-solid fa-hand-peace" style="color: #fad900;"></i>
+  </button>
+  <br><br>
+  <div class="game">
+    <div class="you">
+      <b>You</b>
+      <p class="player-move"></p>
+    </div>
+
+    <div class="computer">
+      <b>Computer</b>
+      <p class="computer-move"></p>
+    </div>
+  </div>
+
+  <p class="verdict"></p>
+  <p class="score"></p>
+  <br>
+  <button class="reset" onclick="reset()">Reset</button>
+  <button class="autoplay" onclick="autoplay()">Autoplay</button>
+
+
+
+  <script>
+    let score= JSON.parse(localStorage.getItem('score')) || {wins:0, losses:0, tie:0};
+
+    updateScore();
+
+    document.querySelector('.score').innerHTML = `Wins: ${score.wins}, Losses: ${score.losses}, Ties:${score.tie}`;
+    
+    document.querySelector('.js-rock').addEventListener('click',()=>{
+      playerMove('fa-hand-fist');
+    });
+    document.querySelector('.js-paper').addEventListener('click',()=>{
+      playerMove('fa-hand');
+    });
+    document.querySelector('.js-scissor').addEventListener('click',()=>{
+      playerMove('fa-hand-peace');
+    });
+    
+    document.body.addEventListener('keydown',(event)=>{
+      if(event.key==='r' || event.key==='R'){
+        playerMove('fa-hand-fist');
+      }
+      else if(event.key==='p' || event.key==='P'){
+        playerMove('fa-hand');
+      }
+      else if(event.key==='s' || event.key==='S'){
+        playerMove('fa-hand-peace');
+      }
+
+    })
+
+    function playerMove(move){
+     const computerMove = pickComputerMove();
+     let result = '';
+
+     if(move==='fa-hand-fist'){
+      if(computerMove==='fa-hand-fist'){
+        result='Tie'
+      } else if(computerMove==='fa-hand'){
+          result= 'You Lose!';
+      } else if(computerMove==='fa-hand-peace'){
+          result ='You Win!';
+      }
+
+    } else if(move==='fa-hand'){
+      if(computerMove==='fa-hand-fist'){
+        result='You Win!'
+      } else if(computerMove==='fa-hand'){
+          result= 'Tie';
+      } else if(computerMove==='fa-hand-peace'){
+          result ='You Lose!';
+      }
+
+    } else if(move==='fa-hand-peace'){
+      if(computerMove==='fa-hand-fist'){
+        result='You Lose!'
+      } else if(computerMove==='fa-hand'){
+          result= 'You Win!';
+      } else if(computerMove==='fa-hand-peace'){
+          result ='Tie';
+      }
+    }
+
+    if(result==='You Win!'){
+      score.wins+=1;
+      document.querySelector('.verdict').style.color = 'rgb(79, 248, 79)';
+    } else if(result==='You Lose!'){
+      score.losses+=1;
+      document.querySelector('.verdict').style.color = '#ff013a';
+    } else if(result==='Tie'){
+      score.tie+=1;
+      document.querySelector('.verdict').style.color='#fff65d ';
+    }
+
+    document.querySelector('.verdict').innerHTML=`${result}`;
+
+    document.querySelector('.computer-move').innerHTML = `<i class="fa-solid ${computerMove}" style="color: #fbff00;"></i>`;
+
+    document.querySelector('.player-move').innerHTML =`<i class="fa-solid ${move}" style="color: #fad900;"></i>`;
+
+    updateScore();
+
+    //local storage
+    localStorage.setItem('score',JSON.stringify(score));
+
+    }
+
+    function updateScore(){
+      document.querySelector('.score').innerHTML = `Wins: ${score.wins}, Losses: ${score.losses}, Ties:${score.tie}`;
+    }
+
+    /*when reset button is clicked*/
+    function reset(){
+      score={wins:0, losses:0, tie:0};
+      updateScore();
+    }
+
+    /*to pick computer move using random nuber*/
+    function pickComputerMove(){
+      const randomNumber = Math.random()*3;
+      let computerMove='';
+      
+      if(randomNumber <1){
+        computerMove = 'fa-hand-fist';
+      } else if(randomNumber >= 1 &&   randomNumber < 2) {
+        computerMove = 'fa-hand';
+      } else if(randomNumber >= 2 &&  randomNumber <= 3){
+        computerMove = 'fa-hand-peace';
+      }
+      return computerMove; 
+      //returns value to the location where function is called
+    }
+  
+    let Autoplaying=false;
+    let intervalId;
+
+  function autoplay(){
+    if(!Autoplaying){
+      intervalId=setInterval(()=>{
+        const move=pickComputerMove();
+        playerMove(move);
+      },1000)
+      Autoplaying=true;
+    } else{
+      clearInterval(intervalId);
+      Autoplaying=false;
+    }
+    updateScore();
+    
+  }
+
+
+  </script>
+</body>
+</html>

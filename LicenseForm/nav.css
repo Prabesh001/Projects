@@ -1,0 +1,42 @@
+.info header{
+  background-color: #2460B9;
+  padding: 5px 0;
+  margin: 0 0 24px;
+  position:absolute;
+  left: 0;
+  width: 100%;
+  top: 245px;
+  display: inline-flex;           
+}
+header> a{
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  margin: 0;
+  padding: 8px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-left: 15px;
+}
+
+@media only screen and (min-width: 770px) {
+.info header{
+  top: 150px;
+  align-items: center;
+}
+.fieldset{
+  position: relative;
+  top: 73px;
+  width: 500px;
+  height: 100%;
+}
+
+}
+@media only screen and (min-width: 940px){
+  .info> header{
+    padding-left: 7.8%;
+  }
+
+}
