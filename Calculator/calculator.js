@@ -1,10 +1,10 @@
 const display=document.querySelector('.display')
 let result=false
     function displayValue(value){
-      if(result){
-        display.value=''
-        result=false;
-      }
+      // if(result){
+      //   display.value=''
+      //   result=false;
+      // }
       display.value+=value;
     }
 
