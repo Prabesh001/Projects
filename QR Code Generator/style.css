@@ -30,7 +30,7 @@ body{
   border-radius: 8px;
   border: 1px solid black;
   outline: 0;
-  margin: 10px 0 20px;
+  margin: 0;
 }
 
 button {
@@ -46,19 +46,19 @@ button {
   outline: 0;
 }
 #img-box{
-  width: 200px;
-  border-radius: 5px;
   max-height: 0;
-  overflow: 0;
+  overflow: hidden;
+  margin: 10px auto;
+  width: 200px;
 }
 #qr-image{
-  margin-left: 20%;
-  width: 50%;
-  padding: 10px;
+  width: 100%;
+  height: 100%;
 }
 #img-box.show-img{
+  padding: 3px;
   border: 1px solid black;
-  max-height: 50%;
-  margin: 10px auto;
+  border-radius: 5px;
+  max-height: 200px;
   transition: max-height 1s;
 }
