@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loading...</title>
+  <style>
+    body{
+      height: 600px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .loader{
+      position: fixed;
+      border: 2px solid blue;
+      width: 100px;
+      height: 10px;
+      border-radius: 100px;
+      overflow: hidden;
+      position: relative;
+    }
+    .loader:after{
+      content: ' ';
+      background-color: #7474f4;
+      width: 0%;
+      height: 100%;
+      animation: loading 3s infinite;
+      position: absolute;
+    }
+    @keyframes loading{
+      0%{
+        width: 0%;
+      }
+      10%{
+        width: 10%;
+      }
+      20%{
+        width: 20%;
+      }
+      30%{
+        width: 30%;
+      }
+      40%{
+        width: 40%;
+      }
+      50%{
+        width: 50%;
+      }
+      60%{
+        width: 60%;
+      }
+      70%{
+        width: 70%;
+      }
+      80%{
+        width: 80%;
+      }
+      90%{
+        width: 90%;
+      }
+      100%{
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="loader">
+
+  </div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+#movies{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+.each-movie{
+  width: 230px;
+  flex-grow: 1;
+  flex-shrink: 2;
+  overflow: hidden;
+}
+.cover{
+  height: 350px; 
+  width: 230px; 
+  object-fit: cover;
+  max-height: 310px;
+  overflow: hidden;
+}

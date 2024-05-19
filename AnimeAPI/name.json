@@ -1,0 +1,4072 @@
+{
+  "pagination": {
+    "last_visible_page": 12,
+    "has_next_page": true,
+    "current_page": 1,
+    "items": {
+      "count": 25,
+      "total": 291,
+      "per_page": 25
+    }
+  },
+  "data": [
+    {
+      "mal_id": 57907,
+      "url": "https://myanimelist.net/anime/57907/Tate_no_Yuusha_no_Nariagari_Season_4",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1887/141052.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1887/141052t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/141052l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1887/141052.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1887/141052t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/141052l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tate no Yuusha no Nariagari Season 4"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tate no Yuusha no Nariagari 4th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "The Rising of the Shield Hero 4th Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "盾の勇者の成り上がり Season 4"
+        },
+        {
+          "type": "English",
+          "title": "The Rising of the Shield Hero Season 4"
+        }
+      ],
+      "title": "Tate no Yuusha no Nariagari Season 4",
+      "title_english": "The Rising of the Shield Hero Season 4",
+      "title_japanese": "盾の勇者の成り上がり Season 4",
+      "title_synonyms": [
+        "Tate no Yuusha no Nariagari 4th Season",
+        "The Rising of the Shield Hero 4th Season"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": null,
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": null,
+        "to": null,
+        "prop": {
+          "from": {
+            "day": null,
+            "month": null,
+            "year": null
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Not available"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 3808,
+      "members": 34414,
+      "favorites": 59,
+      "synopsis": "Fourth season of Tate no Yuusha no Nariagari.",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 57907,
+      "url": "https://myanimelist.net/anime/57907/Tate_no_Yuusha_no_Nariagari_Season_4",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1887/141052.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1887/141052t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/141052l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1887/141052.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1887/141052t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/141052l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tate no Yuusha no Nariagari Season 4"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tate no Yuusha no Nariagari 4th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "The Rising of the Shield Hero 4th Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "盾の勇者の成り上がり Season 4"
+        },
+        {
+          "type": "English",
+          "title": "The Rising of the Shield Hero Season 4"
+        }
+      ],
+      "title": "Tate no Yuusha no Nariagari Season 4",
+      "title_english": "The Rising of the Shield Hero Season 4",
+      "title_japanese": "盾の勇者の成り上がり Season 4",
+      "title_synonyms": [
+        "Tate no Yuusha no Nariagari 4th Season",
+        "The Rising of the Shield Hero 4th Season"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": null,
+      "status": "Not yet aired",
+      "airing": false,
+      "aired": {
+        "from": null,
+        "to": null,
+        "prop": {
+          "from": {
+            "day": null,
+            "month": null,
+            "year": null
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Not available"
+      },
+      "duration": "Unknown",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": null,
+      "rank": null,
+      "popularity": 3808,
+      "members": 34414,
+      "favorites": 59,
+      "synopsis": "Fourth season of Tate no Yuusha no Nariagari.",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 35790,
+      "url": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1490/101365t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1490/101365l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1490/101365.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1490/101365t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1490/101365l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "h3n-chI028E",
+        "url": "https://www.youtube.com/watch?v=h3n-chI028E",
+        "embed_url": "https://www.youtube.com/embed/h3n-chI028E?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/h3n-chI028E/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/h3n-chI028E/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/h3n-chI028E/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/h3n-chI028E/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/h3n-chI028E/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tate no Yuusha no Nariagari"
+        },
+        {
+          "type": "Japanese",
+          "title": "盾の勇者の成り上がり"
+        },
+        {
+          "type": "English",
+          "title": "The Rising of the Shield Hero"
+        },
+        {
+          "type": "German",
+          "title": "The Rising of the Shield Hero"
+        },
+        {
+          "type": "Spanish",
+          "title": "The Rising of the Shield Hero"
+        },
+        {
+          "type": "French",
+          "title": "The Rising of the Shield Hero"
+        }
+      ],
+      "title": "Tate no Yuusha no Nariagari",
+      "title_english": "The Rising of the Shield Hero",
+      "title_japanese": "盾の勇者の成り上がり",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2019-01-09T00:00:00+00:00",
+        "to": "2019-06-26T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 9,
+            "month": 1,
+            "year": 2019
+          },
+          "to": {
+            "day": 26,
+            "month": 6,
+            "year": 2019
+          }
+        },
+        "string": "Jan 9, 2019 to Jun 26, 2019"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.95,
+      "scored_by": 992234,
+      "rank": 711,
+      "popularity": 68,
+      "members": 1592839,
+      "favorites": 25327,
+      "synopsis": "The Four Cardinal Heroes are a group of ordinary men from modern-day Japan summoned to the kingdom of Melromarc to become its saviors. Melromarc is a country plagued by the Waves of Catastrophe that have repeatedly ravaged the land and brought disaster to its citizens for centuries. The four heroes are respectively bestowed a sword, spear, bow, and shield to vanquish these Waves. Naofumi Iwatani, an otaku, becomes cursed with the fate of being the \"Shield Hero.\" Armed with only a measly shield, Naofumi is belittled and ridiculed by his fellow heroes and the kingdom's people due to his weak offensive capabilities and lackluster personality.\n\nWhen the heroes are provided with resources and comrades to train with, Naofumi sets out with the only person willing to train alongside him, Malty Melromarc. He is soon betrayed by her, however, and becomes falsely accused of taking advantage of her. Naofumi then becomes heavily discriminated against and hated by the people of Melromarc for something he didn't do. With a raging storm of hurt and mistrust in his heart, Naofumi begins his journey of strengthening himself and his reputation. Further along however, the difficulty of being on his own sets in, so Naofumi buys a demi-human slave on the verge of death named Raphtalia to accompany him on his travels.\n\nAs the Waves approach the kingdom, Naofumi and Raphtalia must fight for the survival of the kingdom and protect the people of Melromarc from their ill-fated future.\n\n[Written by MAL Rewrite]",
+      "background": null,
+      "season": "winter",
+      "year": 2019,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 22:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Frontier Works",
+          "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 323,
+          "type": "anime",
+          "name": "Nippon Columbia",
+          "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        },
+        {
+          "mal_id": 1255,
+          "type": "anime",
+          "name": "Glovision",
+          "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+        },
+        {
+          "mal_id": 1261,
+          "type": "anime",
+          "name": "Good Smile Company",
+          "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+          "mal_id": 1345,
+          "type": "anime",
+          "name": "Sammy",
+          "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+        },
+        {
+          "mal_id": 1468,
+          "type": "anime",
+          "name": "Crunchyroll",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        },
+        {
+          "mal_id": 1551,
+          "type": "anime",
+          "name": "Kadokawa Media House",
+          "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        },
+        {
+          "mal_id": 1614,
+          "type": "anime",
+          "name": "NTT Plala",
+          "url": "https://myanimelist.net/anime/producer/1614/NTT_Plala"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 290,
+          "type": "anime",
+          "name": "Kinema Citrus",
+          "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 40357,
+      "url": "https://myanimelist.net/anime/40357/Tate_no_Yuusha_no_Nariagari_Season_3",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1317/139802.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1317/139802t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1317/139802l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1317/139802.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1317/139802t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1317/139802l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "VW_LxM4tt-o",
+        "url": "https://www.youtube.com/watch?v=VW_LxM4tt-o",
+        "embed_url": "https://www.youtube.com/embed/VW_LxM4tt-o?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/VW_LxM4tt-o/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tate no Yuusha no Nariagari Season 3"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tate no Yuusha no Nariagari 3rd Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "The Rising of the Shield Hero 3rd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "盾の勇者の成り上がり Season 3"
+        },
+        {
+          "type": "English",
+          "title": "The Rising of the Shield Hero Season 3"
+        }
+      ],
+      "title": "Tate no Yuusha no Nariagari Season 3",
+      "title_english": "The Rising of the Shield Hero Season 3",
+      "title_japanese": "盾の勇者の成り上がり Season 3",
+      "title_synonyms": [
+        "Tate no Yuusha no Nariagari 3rd Season",
+        "The Rising of the Shield Hero 3rd Season"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-10-06T00:00:00+00:00",
+        "to": "2023-12-22T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 10,
+            "year": 2023
+          },
+          "to": {
+            "day": 22,
+            "month": 12,
+            "year": 2023
+          }
+        },
+        "string": "Oct 6, 2023 to Dec 22, 2023"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.12,
+      "scored_by": 100676,
+      "rank": 4132,
+      "popularity": 542,
+      "members": 425017,
+      "favorites": 6118,
+      "synopsis": "After defeating the Spirit Tortoise, Naofumi has no time for rest. An attack from the next Guardian Beast is imminent, but the three other Cardinal Heroes have gone missing. So, Naofumi and his party set out to search for the legendary trio.\n\n(Source: Crunchyroll)",
+      "background": null,
+      "season": "fall",
+      "year": 2023,
+      "broadcast": {
+        "day": "Fridays",
+        "time": "21:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Fridays at 21:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Frontier Works",
+          "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 323,
+          "type": "anime",
+          "name": "Nippon Columbia",
+          "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        },
+        {
+          "mal_id": 689,
+          "type": "anime",
+          "name": "NTT Docomo",
+          "url": "https://myanimelist.net/anime/producer/689/NTT_Docomo"
+        },
+        {
+          "mal_id": 1255,
+          "type": "anime",
+          "name": "Glovision",
+          "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+        },
+        {
+          "mal_id": 1261,
+          "type": "anime",
+          "name": "Good Smile Company",
+          "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+          "mal_id": 1345,
+          "type": "anime",
+          "name": "Sammy",
+          "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+        },
+        {
+          "mal_id": 1468,
+          "type": "anime",
+          "name": "Crunchyroll",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 290,
+          "type": "anime",
+          "name": "Kinema Citrus",
+          "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 40356,
+      "url": "https://myanimelist.net/anime/40356/Tate_no_Yuusha_no_Nariagari_Season_2",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1143/121873.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1143/121873t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1143/121873l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1143/121873.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1143/121873t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1143/121873l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "TA4OjH-RSeA",
+        "url": "https://www.youtube.com/watch?v=TA4OjH-RSeA",
+        "embed_url": "https://www.youtube.com/embed/TA4OjH-RSeA?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/TA4OjH-RSeA/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/TA4OjH-RSeA/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/TA4OjH-RSeA/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/TA4OjH-RSeA/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/TA4OjH-RSeA/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Tate no Yuusha no Nariagari Season 2"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tate no Yuusha no Nariagari 2nd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "盾の勇者の成り上がり Season2"
+        },
+        {
+          "type": "English",
+          "title": "The Rising of the Shield Hero Season 2"
+        }
+      ],
+      "title": "Tate no Yuusha no Nariagari Season 2",
+      "title_english": "The Rising of the Shield Hero Season 2",
+      "title_japanese": "盾の勇者の成り上がり Season2",
+      "title_synonyms": [
+        "Tate no Yuusha no Nariagari 2nd Season"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-04-06T00:00:00+00:00",
+        "to": "2022-06-29T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2022
+          },
+          "to": {
+            "day": 29,
+            "month": 6,
+            "year": 2022
+          }
+        },
+        "string": "Apr 6, 2022 to Jun 29, 2022"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.52,
+      "scored_by": 266750,
+      "rank": 7369,
+      "popularity": 257,
+      "members": 760159,
+      "favorites": 12372,
+      "synopsis": "With another Wave happening in a week, Naofumi Iwatani and his party have no time to waste. However, when bat familiars raid Lurolona Village and the Wave countdown comes to a halt, the Four Cardinal Heroes reconvene with the queen, Mirelia Q Melromarc, for a quick briefing. The queen presumes that the odd occurrences are linked to the Spirit Tortoise—a threatening creature that has awakened from its slumber, back to cause havoc once again. A plan to put the Spirit Tortoise to rest is devised—but out of the four men, only the cursed Shield Hero agrees to help.\n\n[Written by MAL Rewrite]",
+      "background": "Tate no Yuusha no Nariagari Season 2 was set to premiere in October 2021, but was postponed due to various reasons. The series was released on Blu-ray and DVD in three volumes from July 27, 2022 to September 28, 2022.",
+      "season": "spring",
+      "year": 2022,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 22:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Frontier Works",
+          "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 323,
+          "type": "anime",
+          "name": "Nippon Columbia",
+          "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        },
+        {
+          "mal_id": 1255,
+          "type": "anime",
+          "name": "Glovision",
+          "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+        },
+        {
+          "mal_id": 1261,
+          "type": "anime",
+          "name": "Good Smile Company",
+          "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+        },
+        {
+          "mal_id": 1345,
+          "type": "anime",
+          "name": "Sammy",
+          "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+        },
+        {
+          "mal_id": 1468,
+          "type": "anime",
+          "name": "Crunchyroll",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        },
+        {
+          "mal_id": 1551,
+          "type": "anime",
+          "name": "Kadokawa Media House",
+          "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        },
+        {
+          "mal_id": 1614,
+          "type": "anime",
+          "name": "NTT Plala",
+          "url": "https://myanimelist.net/anime/producer/1614/NTT_Plala"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 290,
+          "type": "anime",
+          "name": "Kinema Citrus",
+          "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        },
+        {
+          "mal_id": 1575,
+          "type": "anime",
+          "name": "DR Movie",
+          "url": "https://myanimelist.net/anime/producer/1575/DR_Movie"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "type": "anime",
+          "name": "Adventure",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "type": "anime",
+          "name": "Drama",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 62,
+          "type": "anime",
+          "name": "Isekai",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 55854,
+      "url": "https://myanimelist.net/anime/55854/Hero",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1615/136935.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1615/136935t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1615/136935l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1615/136935.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1615/136935t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1615/136935l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Hero"
+        },
+        {
+          "type": "Japanese",
+          "title": "HERO"
+        },
+        {
+          "type": "English",
+          "title": "Hero"
+        }
+      ],
+      "title": "Hero",
+      "title_english": "Hero",
+      "title_japanese": "HERO",
+      "title_synonyms": [],
+      "type": "Music",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-06-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 30,
+            "month": 6,
+            "year": 2023
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 30, 2023"
+      },
+      "duration": "3 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.37,
+      "scored_by": 183,
+      "rank": null,
+      "popularity": 17674,
+      "members": 369,
+      "favorites": 0,
+      "synopsis": "Music video for the song Hero by Ayase featuring Hatsune Miku.",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 34281,
+      "url": "https://myanimelist.net/anime/34281/High_School_DxD_Hero",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1189/93528.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1189/93528t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1189/93528l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1189/93528.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1189/93528t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1189/93528l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "qshTs9nTaxw",
+        "url": "https://www.youtube.com/watch?v=qshTs9nTaxw",
+        "embed_url": "https://www.youtube.com/embed/qshTs9nTaxw?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/qshTs9nTaxw/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/qshTs9nTaxw/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/qshTs9nTaxw/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/qshTs9nTaxw/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/qshTs9nTaxw/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "High School DxD Hero"
+        },
+        {
+          "type": "Synonym",
+          "title": "High School DxD Season 4"
+        },
+        {
+          "type": "Japanese",
+          "title": "ハイスクールDxD HERO"
+        },
+        {
+          "type": "English",
+          "title": "High School DxD Hero"
+        },
+        {
+          "type": "German",
+          "title": "High School DXD: Hero"
+        }
+      ],
+      "title": "High School DxD Hero",
+      "title_english": "High School DxD Hero",
+      "title_japanese": "ハイスクールDxD HERO",
+      "title_synonyms": [
+        "High School DxD Season 4"
+      ],
+      "type": "TV",
+      "source": "Light novel",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2018-04-17T00:00:00+00:00",
+        "to": "2018-07-03T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 17,
+            "month": 4,
+            "year": 2018
+          },
+          "to": {
+            "day": 3,
+            "month": 7,
+            "year": 2018
+          }
+        },
+        "string": "Apr 17, 2018 to Jul 3, 2018"
+      },
+      "duration": "23 min per ep",
+      "rating": "R+ - Mild Nudity",
+      "score": 7.24,
+      "scored_by": 280768,
+      "rank": 3394,
+      "popularity": 436,
+      "members": 510470,
+      "favorites": 2637,
+      "synopsis": "After rescuing his master, Rias Gremory, from the Dimensional Gap, Red Dragon Emperor and aspiring Harem King Issei Hyoudou can finally return to his high school activities alongside fellow members of the Occult Research Club: Yuuto Kiba, Asia Argento, Xenovia Quarta, and Irina Shidou. The group soon embarks on a school trip to Kyoto. \n\nWhile peacefully visiting a temple thanks to Rias' spell, an attacking group of local youkai breaks the calm atmosphere. Once the altercation ends, the club learns that the mythical nine-tailed fox that protected the city was abducted and that someone has framed them for the act. Issei and his friends will now have to fight to protect the city and save their school trip from a planned disaster!\n\nIn the meantime, Rias, who had to stay in Tokyo with Akeno Himejima and Koneko Toujou, grows increasingly restless to have left the perverted Issei alone with the other girls of the Occult Research Club. Beyond this vague anxiety, what is the exact nature of the feelings Rias has been struggling with for the past few months?\n\n[Written by MAL Rewrite]",
+      "background": null,
+      "season": "spring",
+      "year": 2018,
+      "broadcast": {
+        "day": "Tuesdays",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Tuesdays at 23:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 79,
+          "type": "anime",
+          "name": "Genco",
+          "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 647,
+          "type": "anime",
+          "name": "Memory-Tech",
+          "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        },
+        {
+          "mal_id": 1333,
+          "type": "anime",
+          "name": "Hakuhodo DY Music & Pictures",
+          "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 1840,
+          "type": "anime",
+          "name": "Bandai Namco Arts",
+          "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 911,
+          "type": "anime",
+          "name": "Passione",
+          "url": "https://myanimelist.net/anime/producer/911/Passione"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 35,
+          "type": "anime",
+          "name": "Harem",
+          "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+          "mal_id": 6,
+          "type": "anime",
+          "name": "Mythology",
+          "url": "https://myanimelist.net/anime/genre/6/Mythology"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 37719,
+      "url": "https://myanimelist.net/anime/37719/High_School_DxD_Hero__Taiikukan-ura_no_Holy",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1960/91884.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1960/91884t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1960/91884l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1960/91884.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1960/91884t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1960/91884l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "High School DxD Hero: Taiikukan-ura no Holy"
+        },
+        {
+          "type": "Japanese",
+          "title": "ハイスクールD×D HERO体育館裏のホーリー"
+        },
+        {
+          "type": "English",
+          "title": "High School DxD Hero Episode 0: Holiness Behind the Gym"
+        },
+        {
+          "type": "French",
+          "title": "High School DxD Hero: Episode 0"
+        }
+      ],
+      "title": "High School DxD Hero: Taiikukan-ura no Holy",
+      "title_english": "High School DxD Hero Episode 0: Holiness Behind the Gym",
+      "title_japanese": "ハイスクールD×D HERO体育館裏のホーリー",
+      "title_synonyms": [],
+      "type": "TV Special",
+      "source": "Light novel",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2018-04-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 10,
+            "month": 4,
+            "year": 2018
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 10, 2018"
+      },
+      "duration": "24 min",
+      "rating": "R+ - Mild Nudity",
+      "score": 6.95,
+      "scored_by": 50932,
+      "rank": 4967,
+      "popularity": 2113,
+      "members": 97887,
+      "favorites": 162,
+      "synopsis": "Alternative version of final four episodes of High School DxD BorN.",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 79,
+          "type": "anime",
+          "name": "Genco",
+          "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 238,
+          "type": "anime",
+          "name": "AT-X",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 647,
+          "type": "anime",
+          "name": "Memory-Tech",
+          "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+        },
+        {
+          "mal_id": 1333,
+          "type": "anime",
+          "name": "Hakuhodo DY Music & Pictures",
+          "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+        },
+        {
+          "mal_id": 1696,
+          "type": "anime",
+          "name": "Kadokawa",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 1840,
+          "type": "anime",
+          "name": "Bandai Namco Arts",
+          "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 911,
+          "type": "anime",
+          "name": "Passione",
+          "url": "https://myanimelist.net/anime/producer/911/Passione"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 22,
+          "type": "anime",
+          "name": "Romance",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 9,
+          "type": "anime",
+          "name": "Ecchi",
+          "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 35,
+          "type": "anime",
+          "name": "Harem",
+          "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+          "mal_id": 6,
+          "type": "anime",
+          "name": "Mythology",
+          "url": "https://myanimelist.net/anime/genre/6/Mythology"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 2772,
+      "url": "https://myanimelist.net/anime/2772/Juushin_Enbu__Hero_Tales",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/7/75193.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75193t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75193l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/7/75193.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75193t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75193l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "73LMSSiH9eo",
+        "url": "https://www.youtube.com/watch?v=73LMSSiH9eo",
+        "embed_url": "https://www.youtube.com/embed/73LMSSiH9eo?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/73LMSSiH9eo/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/73LMSSiH9eo/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/73LMSSiH9eo/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/73LMSSiH9eo/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/73LMSSiH9eo/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Juushin Enbu: Hero Tales"
+        },
+        {
+          "type": "Synonym",
+          "title": "Jyuushin Enbu"
+        },
+        {
+          "type": "Synonym",
+          "title": "Jushin Enbu"
+        },
+        {
+          "type": "Japanese",
+          "title": "獣神演武 - HERO TALES -"
+        },
+        {
+          "type": "English",
+          "title": "Hero Tales"
+        },
+        {
+          "type": "German",
+          "title": "Hero Tales"
+        },
+        {
+          "type": "Spanish",
+          "title": "Hero Tales"
+        },
+        {
+          "type": "French",
+          "title": "Hero Tales"
+        }
+      ],
+      "title": "Juushin Enbu: Hero Tales",
+      "title_english": "Hero Tales",
+      "title_japanese": "獣神演武 - HERO TALES -",
+      "title_synonyms": [
+        "Jyuushin Enbu",
+        "Jushin Enbu"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 26,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2007-10-08T00:00:00+00:00",
+        "to": "2008-03-31T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 10,
+            "year": 2007
+          },
+          "to": {
+            "day": 31,
+            "month": 3,
+            "year": 2008
+          }
+        },
+        "string": "Oct 8, 2007 to Mar 31, 2008"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.82,
+      "scored_by": 10278,
+      "rank": 5632,
+      "popularity": 4230,
+      "members": 27639,
+      "favorites": 36,
+      "synopsis": "For citizens of the Ken Empire, justice is a myth. Lord Keiro, the deranged Shogun of the Imperial Army, blazes a trail of terror across the countryside in search of the sacred sword that will make him a god. Standing in his way is Taito, an omnipotent star reborn in human form—a young hero who vows to use his celestial strength to avenge those slaughtered by the villainous Shogun.\n\nTaito's mystical powers steer him toward a violent showdown with Keiro, and if used recklessly, his newfound abilities could shred the very fabric of his being. To master the art of control and become a heroic martial artist, Taito must seek the guidance of others like him: the seven star-born warriors with the strength to shatter a corrupt empire.\n\n(Source: RightStuf)",
+      "background": null,
+      "season": "fall",
+      "year": 2007,
+      "broadcast": {
+        "day": "Mondays",
+        "time": "02:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Mondays at 02:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 58,
+          "type": "anime",
+          "name": "Square Enix",
+          "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+          "mal_id": 79,
+          "type": "anime",
+          "name": "Genco",
+          "url": "https://myanimelist.net/anime/producer/79/Genco"
+        },
+        {
+          "mal_id": 577,
+          "type": "anime",
+          "name": "Tohokushinsha Film Corporation",
+          "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 93,
+          "type": "anime",
+          "name": "Studio Flag",
+          "url": "https://myanimelist.net/anime/producer/93/Studio_Flag"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "type": "anime",
+          "name": "Fantasy",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 17,
+          "type": "anime",
+          "name": "Martial Arts",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 34009,
+      "url": "https://myanimelist.net/anime/34009/To_Be_Hero",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/2/82347.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/2/82347t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/2/82347l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/2/82347.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/2/82347t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/2/82347l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "To Be Hero"
+        },
+        {
+          "type": "Synonym",
+          "title": "Tu Bian Ying Xiong Baba"
+        },
+        {
+          "type": "Synonym",
+          "title": "凸变英雄 BABA"
+        },
+        {
+          "type": "Japanese",
+          "title": "TO BE HERO"
+        },
+        {
+          "type": "English",
+          "title": "To Be Hero"
+        }
+      ],
+      "title": "To Be Hero",
+      "title_english": "To Be Hero",
+      "title_japanese": "TO BE HERO",
+      "title_synonyms": [
+        "Tu Bian Ying Xiong Baba",
+        "凸变英雄 BABA"
+      ],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2016-10-05T00:00:00+00:00",
+        "to": "2016-12-21T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 10,
+            "year": 2016
+          },
+          "to": {
+            "day": 21,
+            "month": 12,
+            "year": 2016
+          }
+        },
+        "string": "Oct 5, 2016 to Dec 21, 2016"
+      },
+      "duration": "11 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.95,
+      "scored_by": 28558,
+      "rank": 4974,
+      "popularity": 2755,
+      "members": 63731,
+      "favorites": 168,
+      "synopsis": "For Uncle, a lecherous but handsome toilet designer, it is just an ordinary day of neglecting his duties as a single parent to hit on women and talk about his \"superpower\": his ability to tell a lady's hip size at a glance. But when he is sucked down into a toilet, the Space Peace Republic Alliance Hero Committee gives him real superpowers, and he becomes the hero of Earth. There is only one problem—he has become an ugly, unrecognizable fatty who is unable to reveal his real identity.\n\nUncle's beloved daughter Min-chan does not believe that such a vulgar fatty could be her father, and casts him out of his own home. Distraught and homeless, he joins up with his perverted neighbor Yamada-san, a small man with a fondness for streaking, and sets out to convince Min-chan that he is her father.\n\nFull of sexual innuendo and slapstick humor, To Be Hero follows Uncle as he befriends bizarre allies and combats even more bizarre foes, fighting for the future of earth against aliens and—more importantly—his future with his daughter.\n\n[Written by MAL Rewrite]",
+      "background": null,
+      "season": "fall",
+      "year": 2016,
+      "broadcast": {
+        "day": "Wednesdays",
+        "time": "18:45",
+        "timezone": "Asia/Tokyo",
+        "string": "Wednesdays at 18:45 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 1530,
+          "type": "anime",
+          "name": "Emon",
+          "url": "https://myanimelist.net/anime/producer/1530/Emon"
+        },
+        {
+          "mal_id": 1774,
+          "type": "anime",
+          "name": "LAN Studio",
+          "url": "https://myanimelist.net/anime/producer/1774/LAN_Studio"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 467,
+          "type": "anime",
+          "name": "Discotek Media",
+          "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 1325,
+          "type": "anime",
+          "name": "Haoliners Animation League",
+          "url": "https://myanimelist.net/anime/producer/1325/Haoliners_Animation_League"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 57952,
+      "url": "https://myanimelist.net/anime/57952/Jijia_Yingxiong__Ji_Dou_Yongzhe_2nd_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1109/141139.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1109/141139t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1109/141139l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1109/141139.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1109/141139t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1109/141139l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Jijia Yingxiong: Ji Dou Yongzhe 2nd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "機甲英雄 機鬥勇者"
+        },
+        {
+          "type": "English",
+          "title": "Hero of Robots 2nd Season"
+        }
+      ],
+      "title": "Jijia Yingxiong: Ji Dou Yongzhe 2nd Season",
+      "title_english": "Hero of Robots 2nd Season",
+      "title_japanese": "機甲英雄 機鬥勇者",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 8,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2023-11-10T00:00:00+00:00",
+        "to": "2023-12-29T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 10,
+            "month": 11,
+            "year": 2023
+          },
+          "to": {
+            "day": 29,
+            "month": 12,
+            "year": 2023
+          }
+        },
+        "string": "Nov 10, 2023 to Dec 29, 2023"
+      },
+      "duration": "12 min per ep",
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": null,
+      "rank": 20545,
+      "popularity": 24043,
+      "members": 80,
+      "favorites": 0,
+      "synopsis": null,
+      "background": null,
+      "season": "fall",
+      "year": 2023,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": "Fridays at Unknown"
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 18,
+          "type": "anime",
+          "name": "Mecha",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 39893,
+      "url": "https://myanimelist.net/anime/39893/Muteking_the_Dancing_Hero",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1402/118465.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1402/118465t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1402/118465l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1402/118465.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1402/118465t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1402/118465l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "ThnaNnoA9KQ",
+        "url": "https://www.youtube.com/watch?v=ThnaNnoA9KQ",
+        "embed_url": "https://www.youtube.com/embed/ThnaNnoA9KQ?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/ThnaNnoA9KQ/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/ThnaNnoA9KQ/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/ThnaNnoA9KQ/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/ThnaNnoA9KQ/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/ThnaNnoA9KQ/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Muteking the Dancing Hero"
+        },
+        {
+          "type": "Japanese",
+          "title": "MUTEKING THE Dancing HERO"
+        }
+      ],
+      "title": "Muteking the Dancing Hero",
+      "title_english": null,
+      "title_japanese": "MUTEKING THE Dancing HERO",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Original",
+      "episodes": 12,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2021-10-03T00:00:00+00:00",
+        "to": "2021-12-19T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 10,
+            "year": 2021
+          },
+          "to": {
+            "day": 19,
+            "month": 12,
+            "year": 2021
+          }
+        },
+        "string": "Oct 3, 2021 to Dec 19, 2021"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.14,
+      "scored_by": 2605,
+      "rank": 9328,
+      "popularity": 7593,
+      "members": 6630,
+      "favorites": 22,
+      "synopsis": "Set in a city modeled after San Francisco in the 1980s, the protagonist has transformed into the hero Muteking and is fighting against evil aliens for some reason. Such a cheerful hero will return in 2020! Sci-fi hero love comedy Muteking the Dancing Hero, singing and dancing with pop music.\n\n(Source: Official Website)",
+      "background": null,
+      "season": "fall",
+      "year": 2021,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "01:26",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 01:26 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 123,
+          "type": "anime",
+          "name": "Victor Entertainment",
+          "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+        },
+        {
+          "mal_id": 2293,
+          "type": "anime",
+          "name": "Smile Company",
+          "url": "https://myanimelist.net/anime/producer/2293/Smile_Company"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 103,
+          "type": "anime",
+          "name": "Tatsunoko Production",
+          "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        },
+        {
+          "mal_id": 200,
+          "type": "anime",
+          "name": "Tezuka Productions",
+          "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 34032,
+      "url": "https://myanimelist.net/anime/34032/King_of_Prism__Pride_the_Hero",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/83813.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/83813t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/83813l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/83813.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/83813t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/83813l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "0aX1-ujv2K0",
+        "url": "https://www.youtube.com/watch?v=0aX1-ujv2K0",
+        "embed_url": "https://www.youtube.com/embed/0aX1-ujv2K0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/0aX1-ujv2K0/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/0aX1-ujv2K0/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/0aX1-ujv2K0/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/0aX1-ujv2K0/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/0aX1-ujv2K0/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "King of Prism: Pride the Hero"
+        },
+        {
+          "type": "Japanese",
+          "title": "KING OF PRISM -PRIDE the HERO-"
+        }
+      ],
+      "title": "King of Prism: Pride the Hero",
+      "title_english": null,
+      "title_japanese": "KING OF PRISM -PRIDE the HERO-",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2017-06-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 10,
+            "month": 6,
+            "year": 2017
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 10, 2017"
+      },
+      "duration": "1 hr 9 min",
+      "rating": "PG - Children",
+      "score": 7.12,
+      "scored_by": 1395,
+      "rank": 4089,
+      "popularity": 8549,
+      "members": 4964,
+      "favorites": 13,
+      "synopsis": null,
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1284,
+          "type": "anime",
+          "name": "Avex Pictures",
+          "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 103,
+          "type": "anime",
+          "name": "Tatsunoko Production",
+          "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 30,
+          "type": "anime",
+          "name": "Sports",
+          "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 61,
+          "type": "anime",
+          "name": "Idols (Male)",
+          "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+        },
+        {
+          "mal_id": 19,
+          "type": "anime",
+          "name": "Music",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 39529,
+      "url": "https://myanimelist.net/anime/39529/Youkai_Watch_Movie_6__Youkai_Gakuen_Y_-_Neko_wa_Hero_ni_Nareru_ka",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1960/106354.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1960/106354t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1960/106354l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1960/106354.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1960/106354t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1960/106354l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "OX4csfeUCGg",
+        "url": "https://www.youtube.com/watch?v=OX4csfeUCGg",
+        "embed_url": "https://www.youtube.com/embed/OX4csfeUCGg?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/OX4csfeUCGg/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/OX4csfeUCGg/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/OX4csfeUCGg/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/OX4csfeUCGg/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/OX4csfeUCGg/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Youkai Watch Movie 6: Youkai Gakuen Y - Neko wa Hero ni Nareru ka"
+        },
+        {
+          "type": "Japanese",
+          "title": "映画 妖怪ウォッチ 妖怪学園Ｙ 猫はHEROになれるか"
+        }
+      ],
+      "title": "Youkai Watch Movie 6: Youkai Gakuen Y - Neko wa Hero ni Nareru ka",
+      "title_english": null,
+      "title_japanese": "映画 妖怪ウォッチ 妖怪学園Ｙ 猫はHEROになれるか",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Game",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2019-12-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 13,
+            "month": 12,
+            "year": 2019
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Dec 13, 2019"
+      },
+      "duration": "1 hr 39 min",
+      "rating": "PG - Children",
+      "score": 5.99,
+      "scored_by": 343,
+      "rank": 9992,
+      "popularity": 12761,
+      "members": 1249,
+      "favorites": 1,
+      "synopsis": "Set in Y-Academy, an elite school that only allows students with top class abilities to enter. The protagonist, Jinpei Jiba, and his unique friends take on the mysteries of the school as transforming heroes.\n\n(Source: IMDb)",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 28,
+          "type": "anime",
+          "name": "OLM",
+          "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 37,
+          "type": "anime",
+          "name": "Supernatural",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 6,
+          "type": "anime",
+          "name": "Mythology",
+          "url": "https://myanimelist.net/anime/genre/6/Mythology"
+        },
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 15,
+          "type": "anime",
+          "name": "Kids",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ]
+    },
+    {
+      "mal_id": 40036,
+      "url": "https://myanimelist.net/anime/40036/Ometeotl_Hero",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1129/106226.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1129/106226t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1129/106226l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1129/106226.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1129/106226t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1129/106226l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Ometeotl Hero"
+        },
+        {
+          "type": "Synonym",
+          "title": "Anime Tamago 2020"
+        },
+        {
+          "type": "Japanese",
+          "title": "オメテオトル≠HERO"
+        }
+      ],
+      "title": "Ometeotl Hero",
+      "title_english": null,
+      "title_japanese": "オメテオトル≠HERO",
+      "title_synonyms": [
+        "Anime Tamago 2020"
+      ],
+      "type": "ONA",
+      "source": "Original",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2020-03-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 27,
+            "month": 3,
+            "year": 2020
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 27, 2020"
+      },
+      "duration": "24 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 19634,
+      "popularity": 14913,
+      "members": 669,
+      "favorites": 0,
+      "synopsis": "In the year 22XX, due to the drastic decrease in the human population, the government starts accepting races from other allied planets. As a result of genetic mixing, new species are born with special powers. A young man named Yuuki learns on his 18th birthday that while his father is a member of the \"hero\" tribe, his mother is a member of a tribe of beings who can manipulate plants who were supposedly wiped out due to the accelerated mechanization of the planet. As a result, Yuuki holds powers of both tribes, but he questions which side he should help with his powers.\n\n(Source: ANN)",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 979,
+          "type": "anime",
+          "name": "SPEED",
+          "url": "https://myanimelist.net/anime/producer/979/SPEED"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 24,
+          "type": "anime",
+          "name": "Sci-Fi",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": []
+    },
+    {
+      "mal_id": 27399,
+      "url": "https://myanimelist.net/anime/27399/Peeping_Life_Movie__We_Are_The_Hero",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/7/66609.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/7/66609t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/7/66609l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/7/66609.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/7/66609t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/7/66609l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": null,
+        "url": null,
+        "embed_url": null,
+        "images": {
+          "image_url": null,
+          "small_image_url": null,
+          "medium_image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Peeping Life Movie: We Are The Hero"
+        },
+        {
+          "type": "Japanese",
+          "title": "Peeping Life -WE ARE THE HERO-"
+        }
+      ],
+      "title": "Peeping Life Movie: We Are The Hero",
+      "title_english": null,
+      "title_japanese": "Peeping Life -WE ARE THE HERO-",
+      "title_synonyms": [],
+      "type": "Movie",
+      "source": "Unknown",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2014-11-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 15,
+            "month": 11,
+            "year": 2014
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Nov 15, 2014"
+      },
+      "duration": "59 min",
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": null,
+      "rank": 19795,
+      "popularity": 17001,
+      "members": 418,
+      "favorites": 1,
+      "synopsis": "Movie of Peeping Life.",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 291,
+          "type": "anime",
+          "name": "CoMix Wave Films",
+          "url": "https://myanimelist.net/anime/producer/291/CoMix_Wave_Films"
+        }
+      ],
+      "licensors": [],
+      "studios": [],
+      "genres": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Comedy",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [],
+      "demographics": []
+    },
+    {
+      "mal_id": 31964,
+      "url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/78745t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/10/78745t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "D5fYOnwYkj4",
+        "url": "https://www.youtube.com/watch?v=D5fYOnwYkj4",
+        "embed_url": "https://www.youtube.com/embed/D5fYOnwYkj4?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/D5fYOnwYkj4/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/D5fYOnwYkj4/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/D5fYOnwYkj4/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/D5fYOnwYkj4/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/D5fYOnwYkj4/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia"
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia"
+        }
+      ],
+      "title": "Boku no Hero Academia",
+      "title_english": "My Hero Academia",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 13,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2016-04-03T00:00:00+00:00",
+        "to": "2016-06-26T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 4,
+            "year": 2016
+          },
+          "to": {
+            "day": 26,
+            "month": 6,
+            "year": 2016
+          }
+        },
+        "string": "Apr 3, 2016 to Jun 26, 2016"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.86,
+      "scored_by": 2069693,
+      "rank": 896,
+      "popularity": 7,
+      "members": 3026095,
+      "favorites": 53498,
+      "synopsis": "The appearance of \"quirks,\" newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual.\n\nSince he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor!\n\nEnduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero.\n\n[Written by MAL Rewrite]",
+      "background": "Mangaka Horikoushi Kouhei has noted that American superhero comics are the inspiration for the series, and has based character pages on logos for Marvel and DC comic characters.",
+      "season": "spring",
+      "year": 2016,
+      "broadcast": {
+        "day": "Sundays",
+        "time": "17:00",
+        "timezone": "Asia/Tokyo",
+        "string": "Sundays at 17:00 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 143,
+          "type": "anime",
+          "name": "Mainichi Broadcasting System",
+          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 33486,
+      "url": "https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/12/85221t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/12/85221l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/12/85221.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/12/85221t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/12/85221l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "ayeDDe8eN1E",
+        "url": "https://www.youtube.com/watch?v=ayeDDe8eN1E",
+        "embed_url": "https://www.youtube.com/embed/ayeDDe8eN1E?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/ayeDDe8eN1E/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/ayeDDe8eN1E/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/ayeDDe8eN1E/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/ayeDDe8eN1E/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/ayeDDe8eN1E/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia 2nd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia Season 2"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia – 2. Staffel"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia Temporada 2"
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia Saison 2"
+        }
+      ],
+      "title": "Boku no Hero Academia 2nd Season",
+      "title_english": "My Hero Academia Season 2",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2017-04-01T00:00:00+00:00",
+        "to": "2017-09-30T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 4,
+            "year": 2017
+          },
+          "to": {
+            "day": 30,
+            "month": 9,
+            "year": 2017
+          }
+        },
+        "string": "Apr 1, 2017 to Sep 30, 2017"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.08,
+      "scored_by": 1726214,
+      "rank": 534,
+      "popularity": 15,
+      "members": 2522854,
+      "favorites": 17029,
+      "synopsis": "At UA Academy, not even a violent attack can disrupt their most prestigious event: the school sports festival. Renowned across Japan, this festival is an opportunity for aspiring heroes to showcase their abilities, both to the public and potential recruiters.\n\nHowever, the path to glory is never easy, especially for Izuku Midoriya—whose quirk possesses great raw power but is also cripplingly inefficient. Pitted against his talented classmates, such as the fire and ice wielding Shouto Todoroki, Izuku must utilize his sharp wits and master his surroundings to achieve victory and prove to the world his worth.\n\n[Written by MAL Rewrite]",
+      "background": null,
+      "season": "spring",
+      "year": 2017,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 36456,
+      "url": "https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1319/92084.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "wMCeFIPwrHE",
+        "url": "https://www.youtube.com/watch?v=wMCeFIPwrHE",
+        "embed_url": "https://www.youtube.com/embed/wMCeFIPwrHE?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/wMCeFIPwrHE/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/wMCeFIPwrHE/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/wMCeFIPwrHE/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/wMCeFIPwrHE/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/wMCeFIPwrHE/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia 3rd Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia Season 3"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia 3. Staffel"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia Temporada 3"
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia Saison 3"
+        }
+      ],
+      "title": "Boku no Hero Academia 3rd Season",
+      "title_english": "My Hero Academia Season 3",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2018-04-07T00:00:00+00:00",
+        "to": "2018-09-29T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 4,
+            "year": 2018
+          },
+          "to": {
+            "day": 29,
+            "month": 9,
+            "year": 2018
+          }
+        },
+        "string": "Apr 7, 2018 to Sep 29, 2018"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.01,
+      "scored_by": 1442176,
+      "rank": 640,
+      "popularity": 26,
+      "members": 2188567,
+      "favorites": 12585,
+      "synopsis": "As summer arrives for the students at UA Academy, each of these superheroes-in-training puts in their best efforts to become renowned heroes. They head off to a forest training camp run by UA's pro heroes, where the students face one another in battle and go through dangerous tests, improving their abilities and pushing past their limits. However, their school trip is suddenly turned upside down when the League of Villains arrives, invading the camp with a mission to capture one of the students. \n\nBoku no Hero Academia 3rd Season follows Izuku \"Deku\" Midoriya, an ambitious student training to achieve his dream of becoming a hero similar to his role model—All Might. Being one of the students caught up amidst the chaos of the villain attack, Deku must take a stand with his classmates and fight for their survival.\n\n[Written by MAL Rewrite]",
+      "background": null,
+      "season": "spring",
+      "year": 2018,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 38408,
+      "url": "https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1412/107914t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1412/107914l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1412/107914.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1412/107914t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1412/107914l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "5VQwDC5jqzQ",
+        "url": "https://www.youtube.com/watch?v=5VQwDC5jqzQ",
+        "embed_url": "https://www.youtube.com/embed/5VQwDC5jqzQ?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/5VQwDC5jqzQ/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/5VQwDC5jqzQ/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/5VQwDC5jqzQ/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/5VQwDC5jqzQ/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/5VQwDC5jqzQ/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia 4th Season"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia Season 4"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia Staffel 4"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia Temporada 4"
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia Saison 4"
+        }
+      ],
+      "title": "Boku no Hero Academia 4th Season",
+      "title_english": "My Hero Academia Season 4",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2019-10-12T00:00:00+00:00",
+        "to": "2020-04-04T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 12,
+            "month": 10,
+            "year": 2019
+          },
+          "to": {
+            "day": 4,
+            "month": 4,
+            "year": 2020
+          }
+        },
+        "string": "Oct 12, 2019 to Apr 4, 2020"
+      },
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.88,
+      "scored_by": 1081892,
+      "rank": 839,
+      "popularity": 54,
+      "members": 1727965,
+      "favorites": 8167,
+      "synopsis": "After successfully passing his Provisional Hero License exam, Izuku \"Deku\" Midoriya seeks out an extracurricular internship with a professional hero agency. At the recommendation of his mentor All Might, Midoriya lands a position under All Might's former sidekick, Sir Nighteye, now a famous hero in his own right.\n\nAs Midoriya's classmates further their own abilities through various internships, up-and-coming villain Kai Chisaki utilizes his terrifying powers to gather favor in the criminal underworld. Known by the moniker Overhaul, Chisaki's ambitions collide with the League of Villains and its leader, Tomura Shigaraki.\n\nThrough his work with Sir Nighteye, Midoriya discovers Chisaki's crime syndicate and the villain's hostile relationship with a mysterious young girl named Eri. Fearing for the child's safety, Midoriya and his upperclassman Mirio Toogata must work together to put an end to Chisaki's reign of terror.\n\n[Written by MAL Rewrite]",
+      "background": null,
+      "season": "fall",
+      "year": 2019,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 41587,
+      "url": "https://myanimelist.net/anime/41587/Boku_no_Hero_Academia_5th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1911/113611.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1911/113611t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1911/113611l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1911/113611.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1911/113611t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1911/113611l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "kkmW-tppFPM",
+        "url": "https://www.youtube.com/watch?v=kkmW-tppFPM",
+        "embed_url": "https://www.youtube.com/embed/kkmW-tppFPM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/kkmW-tppFPM/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/kkmW-tppFPM/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/kkmW-tppFPM/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/kkmW-tppFPM/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/kkmW-tppFPM/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia 5th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia 5"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia Season 5"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia Staffel 5"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia Temporada 5"
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia Saison 5"
+        }
+      ],
+      "title": "Boku no Hero Academia 5th Season",
+      "title_english": "My Hero Academia Season 5",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [
+        "My Hero Academia 5"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2021-03-27T00:00:00+00:00",
+        "to": "2021-09-25T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 27,
+            "month": 3,
+            "year": 2021
+          },
+          "to": {
+            "day": 25,
+            "month": 9,
+            "year": 2021
+          }
+        },
+        "string": "Mar 27, 2021 to Sep 25, 2021"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.37,
+      "scored_by": 603421,
+      "rank": 2587,
+      "popularity": 120,
+      "members": 1185887,
+      "favorites": 10182,
+      "synopsis": "UA Academy's Class 1-A has been the focus of a substantial amount of public attention due to the multiple villain attacks they have faced over the past school year. This attention has left Class 1-A's rivals, Class 1-B, feeling quite bitter. Desiring to prove their skills, they look forward to the opportunity that has been given to them: a set of mock battles between the students of each class.\n\nThe classes are split into squads of four, each of which is tasked with capturing the other group members. The winner is the group who first secures all of the opposing team. While this sounds simple, a curveball is thrown into the mix with the inclusion of General Course Student Hitoshi Shinsou, who wishes to transfer into the Hero Course. Despite using his training with Class 1-A's homeroom teacher Shouta \"Eraserhead\" Aizawa to prove that he's capable of being a real hero, he is still far behind the others due to his lack of experience. However, Shinsou is determined to overcome this challenge.\n\nThus begins the fiery competition between Class 1-A and 1-B as each tries to prove that they are superior to the other.\n\n[Written by MAL Rewrite]",
+      "background": null,
+      "season": "spring",
+      "year": 2021,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 36896,
+      "url": "https://myanimelist.net/anime/36896/Boku_no_Hero_Academia_the_Movie_1__Futari_no_Hero",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1736/93138.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1736/93138t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1736/93138l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1736/93138.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1736/93138t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1736/93138l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "DqL1EsorFy4",
+        "url": "https://www.youtube.com/watch?v=DqL1EsorFy4",
+        "embed_url": "https://www.youtube.com/embed/DqL1EsorFy4?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/DqL1EsorFy4/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/DqL1EsorFy4/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/DqL1EsorFy4/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/DqL1EsorFy4/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/DqL1EsorFy4/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia the Movie 1: Futari no Hero"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia the Movie: The Two Heroes"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア THE MOVIE ～2人の英雄（ヒーロー）～"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: Two Heroes"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia: Two Heroes"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia la Película: Dos Héroes."
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia: Two Heroes"
+        }
+      ],
+      "title": "Boku no Hero Academia the Movie 1: Futari no Hero",
+      "title_english": "My Hero Academia: Two Heroes",
+      "title_japanese": "僕のヒーローアカデミア THE MOVIE ～2人の英雄（ヒーロー）～",
+      "title_synonyms": [
+        "My Hero Academia the Movie: The Two Heroes"
+      ],
+      "type": "Movie",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2018-08-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 8,
+            "year": 2018
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 3, 2018"
+      },
+      "duration": "1 hr 36 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.54,
+      "scored_by": 463135,
+      "rank": 1839,
+      "popularity": 262,
+      "members": 751325,
+      "favorites": 1411,
+      "synopsis": "U.A. High School's students of Class 1-A have made it to summer break. Izuku Midoriya accompanies his mentor All Might to a celebratory superhero festival on I-Island, an isolated patch of land dedicated to researching Quirks and everything else associated with the hero business. Midoriya is granted the opportunity to meet All Might's friend Dave and Dave's daughter Melissa, two talented hero equipment engineers. He also encounters his classmates, most of whom have been given the opportunity to spend part of their summer break at the festival.\n\nHowever, a mysterious squad of villains infiltrates I-Island, and it is up to Midoriya and his friends to confront them, using their developing Quirks to fight off the new enemy and uncover a treacherous plot.\n\n[Written by MAL Rewrite]",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 2229,
+          "type": "anime",
+          "name": "Toho Music",
+          "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 49918,
+      "url": "https://myanimelist.net/anime/49918/Boku_no_Hero_Academia_6th_Season",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1483/126005.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1483/126005t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1483/126005l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1483/126005.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1483/126005t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1483/126005l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "nTWeiY3yZRs",
+        "url": "https://www.youtube.com/watch?v=nTWeiY3yZRs",
+        "embed_url": "https://www.youtube.com/embed/nTWeiY3yZRs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/nTWeiY3yZRs/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/nTWeiY3yZRs/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/nTWeiY3yZRs/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/nTWeiY3yZRs/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/nTWeiY3yZRs/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia 6th Season"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia 6"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia Season 6"
+        }
+      ],
+      "title": "Boku no Hero Academia 6th Season",
+      "title_english": "My Hero Academia Season 6",
+      "title_japanese": "僕のヒーローアカデミア",
+      "title_synonyms": [
+        "My Hero Academia 6"
+      ],
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 25,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2022-10-01T00:00:00+00:00",
+        "to": "2023-03-25T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 10,
+            "year": 2022
+          },
+          "to": {
+            "day": 25,
+            "month": 3,
+            "year": 2023
+          }
+        },
+        "string": "Oct 1, 2022 to Mar 25, 2023"
+      },
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.29,
+      "scored_by": 308763,
+      "rank": 272,
+      "popularity": 328,
+      "members": 644335,
+      "favorites": 7162,
+      "synopsis": "With Tomura Shigaraki at its helm, the former Liberation Army is now known as the Paranormal Liberation Front. This organized criminal group poses an immense threat to the Hero Association, not only because of its sheer size and strength, but also the overpowering quirks of Jin \"Twice\" Bubaigawara and Gigantomachia.\n\nAs new intel from the covert hero Keigo \"Hawks\" Takami confirms that Shigaraki is nowhere to be seen, the Hero Association decides to strike the enemy headquarters with a surprise attack using the entirety of its assets—and the UA students find themselves on the battlefield once again. As the fight rages on, the unsuspecting villains must regroup and push back, but the brave heroes are determined to eradicate every last one of them.\n\n[Written by MAL Rewrite]",
+      "background": "Boku no Hero Academia 6th Season adapts chapters 258-328 of the manga.",
+      "season": "fall",
+      "year": 2022,
+      "broadcast": {
+        "day": "Saturdays",
+        "time": "17:30",
+        "timezone": "Asia/Tokyo",
+        "string": "Saturdays at 17:30 (JST)"
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1143,
+          "type": "anime",
+          "name": "TOHO animation",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        }
+      ],
+      "licensors": [],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 23,
+          "type": "anime",
+          "name": "School",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        },
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 39565,
+      "url": "https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1019/103292.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1019/103292t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1019/103292l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1019/103292.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1019/103292t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1019/103292l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "vikPO-GgNBM",
+        "url": "https://www.youtube.com/watch?v=vikPO-GgNBM",
+        "embed_url": "https://www.youtube.com/embed/vikPO-GgNBM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/vikPO-GgNBM/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/vikPO-GgNBM/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/vikPO-GgNBM/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/vikPO-GgNBM/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/vikPO-GgNBM/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia the Movie 2: Heroes:Rising"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia the Movie 2: Heroes:Rising"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア THE MOVIE　ヒーローズ：ライジング"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: Heroes Rising"
+        },
+        {
+          "type": "German",
+          "title": "My Hero Academia: Heroes Rising"
+        },
+        {
+          "type": "Spanish",
+          "title": "My Hero Academia: El Despertar de los Héroes"
+        },
+        {
+          "type": "French",
+          "title": "My Hero Academia: Heroes Rising"
+        }
+      ],
+      "title": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+      "title_english": "My Hero Academia: Heroes Rising",
+      "title_japanese": "僕のヒーローアカデミア THE MOVIE　ヒーローズ：ライジング",
+      "title_synonyms": [
+        "My Hero Academia the Movie 2: Heroes:Rising"
+      ],
+      "type": "Movie",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2019-12-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 20,
+            "month": 12,
+            "year": 2019
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Dec 20, 2019"
+      },
+      "duration": "1 hr 44 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.95,
+      "scored_by": 336154,
+      "rank": 721,
+      "popularity": 381,
+      "members": 572705,
+      "favorites": 1815,
+      "synopsis": "Izuku \"Deku'' Midoriya and his fellow students in Class 1-A of UA High's hero course have been chosen to participate in a safety program on Nabu Island. To further improve their skills and gain experience in more ordinary heroics, the students aid the kind citizens with small services and everyday chores. With the low crime rate in the quiet community, all seems well and good, but the rise of a new villain threatens to put the students' courage to the test and challenge their capabilities as heroes.\n\nA merciless villain by the name of Nine is in search of a certain \"quirk\" needed to fulfill his diabolical plan—creating a society where only those with the strongest quirks reign supreme. As his attack on Nabu Island endangers the lives of the residents, securing the citizens becomes the first priority for Class 1-A; defeating Nine along with his wicked accomplices is also imperative. A straightforward strategy is formulated until a young boy named Katsuma Shimano, whom Deku had befriended, suddenly requires particular protection. Concerned for the boy's wellbeing, Deku and his classmates must now devise a plan to ensure Katsuma's safety at all costs.\n\nWith Nine wreaking havoc to find the catalyst for his ill-intended schemes and the heroes desperate to defend Katsuma from harm, will Deku and his friends be able to come out victorious, or will they find themselves unable to escape a hopeless situation?\n\n[Written by MAL Rewrite]",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [
+        {
+          "mal_id": 53,
+          "type": "anime",
+          "name": "Dentsu",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 76,
+          "type": "anime",
+          "name": "Yomiuri Telecasting",
+          "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+        },
+        {
+          "mal_id": 166,
+          "type": "anime",
+          "name": "Movic",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 245,
+          "type": "anime",
+          "name": "TOHO",
+          "url": "https://myanimelist.net/anime/producer/245/TOHO"
+        },
+        {
+          "mal_id": 757,
+          "type": "anime",
+          "name": "Sony Music Entertainment",
+          "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+        },
+        {
+          "mal_id": 1003,
+          "type": "anime",
+          "name": "Nippon Television Network",
+          "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+        },
+        {
+          "mal_id": 1365,
+          "type": "anime",
+          "name": "Shueisha",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 2229,
+          "type": "anime",
+          "name": "Toho Music",
+          "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+        }
+      ],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    },
+    {
+      "mal_id": 44200,
+      "url": "https://myanimelist.net/anime/44200/Boku_no_Hero_Academia_the_Movie_3__World_Heroes_Mission",
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1049/115605.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1049/115605t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1049/115605l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1049/115605.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1049/115605t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1049/115605l.webp"
+        }
+      },
+      "trailer": {
+        "youtube_id": "ohR_gEvQIRk",
+        "url": "https://www.youtube.com/watch?v=ohR_gEvQIRk",
+        "embed_url": "https://www.youtube.com/embed/ohR_gEvQIRk?enablejsapi=1&wmode=opaque&autoplay=1",
+        "images": {
+          "image_url": "https://img.youtube.com/vi/ohR_gEvQIRk/default.jpg",
+          "small_image_url": "https://img.youtube.com/vi/ohR_gEvQIRk/sddefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/ohR_gEvQIRk/mqdefault.jpg",
+          "large_image_url": "https://img.youtube.com/vi/ohR_gEvQIRk/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/ohR_gEvQIRk/maxresdefault.jpg"
+        }
+      },
+      "approved": true,
+      "titles": [
+        {
+          "type": "Default",
+          "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission"
+        },
+        {
+          "type": "Synonym",
+          "title": "My Hero Academia the Movie 3"
+        },
+        {
+          "type": "Japanese",
+          "title": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション"
+        },
+        {
+          "type": "English",
+          "title": "My Hero Academia: World Heroes' Mission"
+        }
+      ],
+      "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+      "title_english": "My Hero Academia: World Heroes' Mission",
+      "title_japanese": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション",
+      "title_synonyms": [
+        "My Hero Academia the Movie 3"
+      ],
+      "type": "Movie",
+      "source": "Manga",
+      "episodes": 1,
+      "status": "Finished Airing",
+      "airing": false,
+      "aired": {
+        "from": "2021-08-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 8,
+            "year": 2021
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 6, 2021"
+      },
+      "duration": "1 hr 44 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.59,
+      "scored_by": 107648,
+      "rank": 1632,
+      "popularity": 983,
+      "members": 248832,
+      "favorites": 1001,
+      "synopsis": "Under the doctrines of Quirk Doomsday Theory, the ideological group Humarise is convinced that all humans with quirks are diseased and must be eradicated. In order to rebuild the world, the group's extremists have constructed a lethal device known as a \"Trigger Bomb\" that causes people with quirks to lose control and die. Their leader, Flect Turn, evades capture from the Pro Heroes deployed around the world.\n\nDuring his work study in the country of Otheon with Japan's number one Pro Hero, Izuku \"Deku\" Midoriya is accused of a crime he did not commit. Unintentionally involving Roddy Soul, a local, Deku soon finds himself on the run with the boy. It is now up to Rody, Deku, and Deku's classmates to stop the Trigger Bomb plot set in motion by Flect, all while eluding the other persistent members of Humarise.\n\n[Written by MAL Rewrite]",
+      "background": null,
+      "season": null,
+      "year": null,
+      "broadcast": {
+        "day": null,
+        "time": null,
+        "timezone": null,
+        "string": null
+      },
+      "producers": [],
+      "licensors": [
+        {
+          "mal_id": 102,
+          "type": "anime",
+          "name": "Funimation",
+          "url": "https://myanimelist.net/anime/producer/102/Funimation"
+        }
+      ],
+      "studios": [
+        {
+          "mal_id": 4,
+          "type": "anime",
+          "name": "Bones",
+          "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+      ],
+      "genres": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Action",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "explicit_genres": [],
+      "themes": [
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Super Power",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "demographics": [
+        {
+          "mal_id": 27,
+          "type": "anime",
+          "name": "Shounen",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ]
+    }
+  ]
+}

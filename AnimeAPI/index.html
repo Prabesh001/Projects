@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SEARCH ANIME</title>
+  <link rel="stylesheet" href="index.css">
+  <link rel="shortcut icon" href="luffy.jpg" type="image/x-icon">
+  <style>
+    #status{
+      color: tomato;
+    }
+    .each-movie{
+      border: 1px solid black;
+      padding: 5px;
+      border-radius: 5px;
+      max-width: 231px;
+      
+    }
+  </style>
+</head>
+<body>
+  <h2>Search Anime Name</h2>
+
+    <input type="text" id="nameValue" placeholder="Anime name">
+    <button id="click" onclick="fetchData()">Search</button>
+    <label for="languageSelect">Name in:</label>
+    <select name="Language" id="languageSelect" onchange="select()">
+      <option value="1" selected>Japanese</option>
+      <option value="0">English</option>
+    </select>
+    <br><br>
+
+  <div id="movies"></div>
+  <br>
+
+  <script src="index.js"></script>
+</body>
+</html>
