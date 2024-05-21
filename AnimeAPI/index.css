@@ -11,6 +11,10 @@
   flex-grow: 1;
   flex-shrink: 2;
   overflow: hidden;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 5px;
+  max-width: 231px;  
 }
 .cover{
   height: 350px; 
@@ -18,4 +22,7 @@
   object-fit: cover;
   max-height: 310px;
   overflow: hidden;
+}
+#status{
+  color: tomato;
 }

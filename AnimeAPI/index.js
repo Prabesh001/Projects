@@ -61,9 +61,6 @@ async function fetchData(){
     if(movies.length == 0){
        moviesbox.innerHTML = 'No result found!';
     }
-    var status = document.getElementById('status');
-    
-    status.style.color = 'blue';
   }
   catch(error){
     console.error(error);
