@@ -6,6 +6,11 @@ function select(){
 }
 select();
 
+function searchAnime(url){
+  window.open(url, '_blank')
+}
+
+
 async function fetchData(){
   
   try{
@@ -14,7 +19,7 @@ async function fetchData(){
     if(!response.ok){
       throw new Error('Could not fetch resource');
     }
-
+    
     const data = await response.json();
     
     let movies = [];
@@ -35,34 +40,35 @@ async function fetchData(){
       else{
         viewedTitle = detail.title;
       }
-       
+      
       if(viewedTitle == null){
         viewedTitle = detail.title;
       }
       allMovie +=
-        `<div class="each-movie">
-          <img src= "${detail.images.jpg.image_url}" title= "${viewedTitle}" class ="cover">
-          <p>${viewedTitle}</p>
-          <span id="status">${detail.status}</span><br>
-          <select id ="number-${n}">
-            <option value="" disabled selected>Not Watched</option>
-            <option value="1">Watching</option>
-            <option value="2">Completed</option>
-            <option value="3">Dropped</option>
-          </select>
-        </div>`
-      });
-
+      `<div class="each-movie" onclick = "searchAnime('${detail.url}')">
+      <img src= "${detail.images.jpg.image_url}" title= "${viewedTitle}" class ="cover">
+      <p>${viewedTitle}</p>
+      <div id="status">${detail.status}</div>
+      <select id ="number-${n}">
+      <option value="" disabled selected>Not Watched</option>
+      <option value="1">Watching</option>
+      <option value="2">Completed</option>
+      <option value="3">Dropped</option>
+      </select>
+      </div>`
+    });
+    
     moviesbox.innerHTML = allMovie;
-
+    
     const imagebox = document.getElementById('imageBox');
     const synopsis = document.getElementById('synopsis');
     
     if(movies.length == 0){
-       moviesbox.innerHTML = 'No result found!';
-    }
+      moviesbox.innerHTML = 'No result found!';
+    }  
   }
   catch(error){
     console.error(error);
   }
 }
+// document.addEventListener('load', fetchData());
