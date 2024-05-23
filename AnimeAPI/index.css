@@ -14,13 +14,11 @@
   border: 1px solid black;
   padding: 5px;
   border-radius: 5px;
-  max-width: 231px;  
 }
 .cover{
   height: 350px; 
   width: 230px; 
   object-fit: cover;
-  max-height: 310px;
   overflow: hidden;
 }
 #status{
