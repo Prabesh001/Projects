@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>not: Pseudo-type</title>
+    <style>
+      .container{
+        display: inline-flex;
+        gap: 10px;
+      }
+      .item{
+        background-color: rgb(39, 174, 231);
+        width: 100px;
+        aspect-ratio: 1;
+        transition: transform 0.3s;
+      }
+      .item:hover{
+        transform: scale(1.1);
+      }
+      .container:hover :not(:hover){
+        opacity: 0.6;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="item"></div>
+      <div class="item"></div>
+      <div class="item"></div>
+      <div class="item"></div>
+      <div class="item"></div>
+    </div>
+  </body>
+</html>
