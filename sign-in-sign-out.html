@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign In and Sign Out</title>
+    <style>
+      .body {
+        display: flex;
+        background-color: #7e7676;
+        border: 1px solid black;
+        justify-content: center;
+        align-items: center;
+        height: 400px;
+        aspect-ratio: 1;
+        position: relative;
+      }
+      .slider {
+        background-color: blue;
+        height: 100%;
+        width: 50%;
+        position: absolute;
+        right: 0;
+        transition: all 0.3s ease-in-out;
+      }
+      .slider-slide {
+        right: 50%;
+      }
+      button {
+        height: 40px;
+        width: 100px;
+      }
+      .btn-group {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="body">
+      <div class="slider"></div>
+      <div class="btn-group">
+        <button>Sign Up</button>
+        <button>Sign In</button>
+      </div>
+
+      <script>
+        const btns = document.querySelectorAll("button");
+        const slider = document.querySelector(".slider");
+
+        btns.forEach((btn) => {
+          btn.addEventListener("click", () => {
+            slider.classList.toggle("slider-slide");
+            console.log("clicked");
+          });
+        });
+      </script>
+    </div>
+  </body>
+</html>

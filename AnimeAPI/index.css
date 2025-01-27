@@ -1,26 +1,120 @@
-*{
+html {
+  scroll-behavior: smooth;
+}
+* {
   font-family: Arial, Helvetica, sans-serif;
 }
-#movies{
+body {
+  background-color: #ededed;
+  padding: 10px;
+}
+.container {
+  padding: 10px;
+  margin: 0 20px;
+  box-shadow: 1px 1px 5px gray;
+  background-color: hsl(0, 0%, 95%);
+  border-radius: 4px;
+  flex-direction: column;
+  /* height: fit-content; */
+  box-sizing: border-box;
+}
+#click {
+  background-color: #6ab3fc;
+  border: none;
+  color: white;
+  font-weight: bold;
+  text-shadow: 0 0 5px black;
+  padding: 5px 10px;
+  border-radius: 3px;
+  transition: all 0.3s;
+  font-size: 1.1em;
+}
+#click:hover {
+  background-color: #3799fb;
+}
+#nameValue {
+  font-size: 1.1em;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 1px 1px 8px black;
+  font-weight: 500;
+}
+#nameValue:focus {
+  outline-offset: 1px;
+  background-color: lightgray;
+  text-shadow: 1px 0 6px white;
+  outline: none;
+  box-shadow: none;
+}
+.card{
+  box-shadow:  0 0 5px black;
+}
+#movies {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 14em);
+  grid-template-rows: repeat(auto-fit, 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 15px;
+  justify-content: center;
+}
+#status {
+  color: tomato;
+  text-shadow: -1px -1px 19px white;
+}
+.anime-name {
+  cursor: pointer;
+  font-weight: bold;
+  transition: all 0.3s;
+}
+.anime-name:hover {
+  color: hsl(121, 97%, 29%);
+}
+.card img{
+  width: 220px;
+  aspect-ratio: 0.7;
+}
+/* #movies {
   display: flex;
   flex-wrap: wrap;
-  gap: 5px;
-}
-.each-movie{
-  width: 230px;
-  flex-grow: 1;
-  flex-shrink: 2;
+  justify-content: center;
+  align-items: center;
+  gap: 15px 10px;
+} */
+/* .each-movie {
+  max-width: 250px;
+  flex: 1 1 auto;
   overflow: hidden;
-  border: 1px solid black;
-  padding: 5px;
+  border: none;
+  padding: 10px;
   border-radius: 5px;
+  background-color: hsl(0, 0%, 97%);
+  transform: scale(1);
+  transition: all 0.3s;
+  height: 460px;
+  text-overflow: ellipsis;
+  box-shadow: 3px 3px 8px black, -1px -1px 10px rgb(242, 222, 222);
 }
-.cover{
-  height: 350px; 
-  width: 230px; 
-  object-fit: cover;
+
+.each-movie select{
+  background-color: hsl(240, 100%, 69%);
+  font-weight: bold;
+  color: whitesmoke;
+  text-shadow: 0 0 4px black;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 3px;
+  margin: 10px 0 ;
+} */
+/* .cover {
+  height: 350px;
+  width: 230px;
+  object-fit: contain;
   overflow: hidden;
-}
-#status{
-  color: tomato;
-}
+  cursor: pointer;
+} */
+/* .each-movie:hover {
+  transform: translateY(-3px) scale(0.98);
+  background-color: #f9f9f9;
+  box-shadow: 3px 3px 8px rgb(242, 222, 222), -1px -1px 10px black;
+} */
